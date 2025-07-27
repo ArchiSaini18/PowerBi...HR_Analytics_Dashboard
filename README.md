@@ -82,4 +82,4 @@ Includes:
 Structured to support time-based and categorical analysis.
 
 Screenshot:
-link:()
+link:(https://github.com/ArchiSaini18/PowerBi...HR_Analytics_Dashboard/blob/main/HR_Analytics_Dashboard_img.png)
